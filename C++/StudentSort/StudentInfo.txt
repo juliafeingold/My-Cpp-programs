@@ -1,0 +1,6 @@
+123456789   John    Johnson    3.5
+512434990   Mary    Jackson    3.9
+342432444   Peter   Young      2.3
+470068625   Jim     Lee        2.9
+234324324   Tammy   Gaddis     3.1
+121219000   Ester   Schwab     2.7
